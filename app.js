@@ -1,4 +1,4 @@
-var app_url = "http://localhost/sb-chat/";
+var app_url = "http://127.0.4.21:5000/";
 var api_url = "http://127.0.4.21:5000/api/";
 var span = null;
 var div = null;
