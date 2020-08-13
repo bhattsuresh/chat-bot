@@ -1,5 +1,5 @@
 # chat-bot
-website chat live widget
+website live chat widget
 
 ## Uses 
 ### just you need to add script tag
