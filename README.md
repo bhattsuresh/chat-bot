@@ -2,9 +2,9 @@
 website live chat widget
 
 ## Uses 
-### just you need to add script tag
-# Use this code to your html page
- <script id="sb-chat-widget"  src="http://127.0.4.21:5000/app.js" data='{"api":"9756478020","theme":"#060a2f"}'></script>
+
+### Python Version 3.8
+### NLTK Version 3.5 
  
 # install these library using command
  pip install nltk\

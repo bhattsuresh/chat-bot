@@ -51,7 +51,7 @@ def samplefunction():
 
 @app.route('/api/check-api', methods=['GET'])
 def check_api():
-    return {"apikey":"9756478020","is_online":True}
+    return {"apikey":"demo_api_key","is_online":True}
 
 @app.route('/api/send-message', methods=['POST'])
 def send_message():
